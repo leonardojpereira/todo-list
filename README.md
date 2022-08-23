@@ -11,7 +11,7 @@ index.html
 ```
 
 ## 🛠️ Made with
-* [Visual Studio Code](https://code.visualstudio.com) - Coding Editor<br>
+* [Visual Studio Code](https://code.visualstudio.com) - Coding Editor
 
 
 
