@@ -12,8 +12,9 @@ index.html
 
 ## 🛠️ Made with
 * [Visual Studio Code](https://code.visualstudio.com) - Coding Editor
-<br>
-<br>
+
+
+
 ## 💻 Technologies used to develop this project
 <div display="flex">
   <img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
