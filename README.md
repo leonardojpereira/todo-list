@@ -1,3 +1,6 @@
+![todo_list_project_img](https://user-images.githubusercontent.com/87662269/191387087-b840f43b-14b1-41d2-8844-028502e898bd.JPG)
+
+
 # To-do list
 
 This application was made in order to create tasks that you should do in your day, so that you won't forget nothing!  😊
