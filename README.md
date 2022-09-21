@@ -1,7 +1,7 @@
 ![todo_list_project_img](https://user-images.githubusercontent.com/87662269/191387200-8a0891cf-8472-4b75-83e2-4910ddf08b74.JPG)
 
 <h1 align="center">
- TO-DO List :bookmark_tabs:
+ TO-DO LIST :bookmark_tabs:
 </h1>
 
 <h2>
