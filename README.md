@@ -1,23 +1,30 @@
 ![todo_list_project_img](https://user-images.githubusercontent.com/87662269/191387200-8a0891cf-8472-4b75-83e2-4910ddf08b74.JPG)
 
-# To-do list
+<h1 align="center">
+ TO-DO List :bookmark_tabs:
+</h1>
 
-This application was made in order to create tasks that you should do in your day, so that you won't forget nothing!  😊
+<h2>
+  :pencil: Descrição do projeto
+</h2>
 
-### 📋 Requirements and Instalation
+<p>
+Esse projeto consiste numa simples lista de taferas, o famoso TO-DO list, onde você pode adicionar, editar e excluir uma tarefa. 
+  
+Eu o fiz no intuito de praticar os conceitos de CRUD e aprimorar ainda mais minhas habilidades.
+</p>
 
-To view this application, extract the files after downloading from github, and open the index.html file as in the example bellow.
+## :link: Deploy
 
 ```
-index.html
+https://leonardojpereira.github.io/todo-list/
 ```
 
-## 🛠️ Made with
+## 🛠️ Feito com
 * [Visual Studio Code](https://code.visualstudio.com) - Coding Editor
 
 
-
-## 💻 Technologies used to develop this project
+## 💻 Tecnoloias utilizadas
 <div display="flex">
   <img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,3 +35,9 @@ index.html
  
 ---
 ⌨️ with ❤️ by [Leonardo Barbosa](https://github.com/leonardojpereira) 😊
+
+<h3 align="center">
+  
+  :construction: PROJETO FINALIZADO :construction:
+  
+</h3>
