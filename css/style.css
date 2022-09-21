@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 50px auto;
+    width: 100%;;
+    max-width: 450px;
+    background: #363636;
+    padding: 22px 55px 55px 55px;
+    border-radius: 12px;
+}
+
+.container h1 {
+    color: #FFF;
+    text-align: center;
+    font-size: 2rem;
+    padding-bottom: 55px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+#writeTask {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    background-color: #fff;
+    border: none;
+}
+
+#addTask {
+    width: 90px;
+    background-color: rgb(79, 167, 52);
+    border: none;
+    color: #FFF;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#addTask:hover {
+    background-color: rgb(95, 199, 63);
+}
+
+.split {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: solid 1px #FFF;
+    width: 50px;
+    margin: 20px auto;
+}
+
+.taskListContainer {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px;
+    margin-top: 18px;
+    outline: none;
+    background-color: #181919;
+    border: none;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.no-display {
+    display: none;
+}
+
+.taskListContainer span {
+    list-style-type: none;
+    color: #FFF;
+}
+
+.checkbox-input {
+    display: flex;
+}
+
+#checkbox {
+    margin-right: 7px;
+}
+
+#checkbox:checked ~ span {
+    text-decoration: line-through;
+}
+
+.config {
+    margin-right: 7px;
+}
+
+.btn-icon {
+    background: none;
+    border: none;
+    margin-left: 5px;
+    color: #fff;
+    cursor: pointer;
+    padding: 0;
+    margin-left: 15px;
+    transition: 0.2s;
+}
+
+.btn-icon:hover {
+    color: rgb(194, 194, 194);
+}
+
+#editarTarefaInput {
+    width: 100%;
+    padding-left: 5px;
+    outline: none;
+    border: none;
+    font-size: 22px;
+}
+
+#editarTarefaInput::placeholder {
+    font-size: 18px;
+}
+
+/* media query */
+
+@media screen and (max-width: 440px) {
+   .container {
+    padding: 22px 26px 55px 26px;
+   }
+}
+    
