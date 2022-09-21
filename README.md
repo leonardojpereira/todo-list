@@ -1,5 +1,4 @@
-![todo_list_project_img](https://user-images.githubusercontent.com/87662269/191387087-b840f43b-14b1-41d2-8844-028502e898bd.JPG)
-
+![todo_list_project_img](https://user-images.githubusercontent.com/87662269/191387200-8a0891cf-8472-4b75-83e2-4910ddf08b74.JPG)
 
 # To-do list
 
