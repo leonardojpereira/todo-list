@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+body {
+    padding: 0 18px;
+}
+
 .container {
     margin: 50px auto;
     width: 100%;;
@@ -12,6 +16,7 @@
     background: #363636;
     padding: 22px 55px 55px 55px;
     border-radius: 12px;
+    box-shadow: 12px 12px 12px #555555;
 }
 
 .container h1 {
@@ -19,6 +24,7 @@
     text-align: center;
     font-size: 2rem;
     padding-bottom: 55px;
+    text-transform: uppercase;
 }
 
 .header {
@@ -129,3 +135,14 @@
    }
 }
     
+@media screen and (max-width: 440px) {
+    .container h1 {
+        font-size: 1.5rem;
+        padding-bottom: 28px;
+    }
+
+    #addTask {
+        width: 50px;
+    }
+}
+
